@@ -1,0 +1,14 @@
+{
+  "name": "passive-income-site",
+  "version": "0.1.0",
+  "description": "Renter-friendly small-space storage content/affiliate site",
+  "private": true,
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "new-post": "node scripts/new-post.js"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

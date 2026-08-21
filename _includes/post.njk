@@ -1,0 +1,21 @@
+---
+layout: base.njk
+---
+<article class="post">
+  <h1>{{ title }}</h1>
+  <p class="post-meta">Updated {{ date | readableDate }}</p>
+
+  {% if site.adsenseClientId and site.adsenseSlotPost %}
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.adsenseClientId }}"
+       data-ad-slot="{{ site.adsenseSlotPost }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  {% endif %}
+
+  <div class="post-body">
+    {{ content | safe }}
+  </div>
+</article>

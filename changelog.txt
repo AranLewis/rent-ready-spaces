@@ -1,0 +1,9 @@
+0.1.0 - 2026-08-20 08:27 PM MDT - Fen
+- Initial build: Eleventy static site scaffolded (renter-friendly small-space storage/organization niche, chosen per user's request to pick a low-competition/decent-RPM niche).
+- 5 seed blog posts written (no-drill wall storage, over-door organizers, studio apartment organization, Command hook alternatives, closet organization).
+- Required policy pages added: About, Contact, Privacy Policy, Affiliate Disclosure, Terms.
+- Config-driven monetization wiring: _data/site.json holds amazonTag/adsenseClientId as empty placeholders; affiliateLink shortcode builds tagged Amazon links from that one config value.
+- scripts/new-post.js scaffolds new posts with logging (UTC timestamps, --verbose flag).
+- start.sh installs deps and runs local preview server, refusing to start if port 8080 is already in use.
+- docs/ populated (release-notes, roadmap, project-summary, user-manual, nlp-summary) and MANUAL_STEPS.md written listing the account-creation steps only the user can complete.
+- Local git repo initialized; nothing pushed to any remote.
