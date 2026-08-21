@@ -8,4 +8,4 @@ Rent-Ready Spaces publishes buying guides and how-to articles focused on one pro
 
 Every guide is researched from manufacturer specs, published reviews, and real listed customer feedback, then written up as an original comparison — not copied product descriptions and not fabricated first-person testimonials. Where we haven't personally tested a product, we say so and base recommendations on documented specs and verified reviews instead.
 
-This site is independently run and supports itself through reader-supported affiliate links and display ads — see our [affiliate disclosure](/affiliate-disclosure/) for details.
+This site is independently run and supports itself through reader-supported affiliate links and display ads — see our [affiliate disclosure]({{ '/affiliate-disclosure/' | url }}) for details.

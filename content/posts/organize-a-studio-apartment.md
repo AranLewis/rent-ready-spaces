@@ -40,7 +40,7 @@ This is the highest-traffic, most cluttered zone in almost every studio because 
 ### 5. Storage-only zones
 
 - Above kitchen cabinets, behind doors, and inside ottomans/benches are all storage-only zones most studios underuse. An ottoman with internal storage effectively adds a hidden closet's worth of space while doubling as seating.
-- Closet organization systems (tension rods, stackable shelf risers, double-hang bars) roughly double usable closet volume in most standard rental closets — see our [closet organization guide](/blog/renter-friendly-closet-organization/) for specifics.
+- Closet organization systems (tension rods, stackable shelf risers, double-hang bars) roughly double usable closet volume in most standard rental closets — see our [closet organization guide]({{ '/blog/renter-friendly-closet-organization/' | url }}) for specifics.
 
 ## A simple buying order
 
@@ -56,4 +56,4 @@ If budget/time is limited, prioritize in this order — each has outsized impact
 
 {% affiliateLink "https://www.amazon.com/s?k=storage+ottoman", "Browse storage ottomans", site.amazonTag %}
 
-Related reading: [Renter-friendly closet organization](/blog/renter-friendly-closet-organization/) and [no-drill wall storage solutions](/blog/no-drill-wall-storage-for-renters/).
+Related reading: [Renter-friendly closet organization]({{ '/blog/renter-friendly-closet-organization/' | url }}) and [no-drill wall storage solutions]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}).

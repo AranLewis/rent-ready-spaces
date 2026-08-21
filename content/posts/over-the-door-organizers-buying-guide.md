@@ -42,6 +42,6 @@ Over-the-door organizers are the single most lease-safe storage category that ex
 
 ## When to skip this category entirely
 
-If your door doesn't fully close with anything hanging on it, or your building's fire code / lease explicitly restricts door-mounted items (some do, for hallway or fire-egress doors), don't force it — a [no-drill wall option](/blog/no-drill-wall-storage-for-renters/) or freestanding unit is the safer fit.
+If your door doesn't fully close with anything hanging on it, or your building's fire code / lease explicitly restricts door-mounted items (some do, for hallway or fire-egress doors), don't force it — a [no-drill wall option]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}) or freestanding unit is the safer fit.
 
-Related reading: [No-drill wall storage solutions](/blog/no-drill-wall-storage-for-renters/) and [studio apartment organization guide](/blog/organize-a-studio-apartment/).
+Related reading: [No-drill wall storage solutions]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}) and [studio apartment organization guide]({{ '/blog/organize-a-studio-apartment/' | url }}).

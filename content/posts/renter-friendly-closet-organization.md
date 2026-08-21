@@ -32,7 +32,7 @@ The shelf above the rod is usually the most wasted space in a rental closet — 
 
 ## Door-back space
 
-The back of a closet door is functionally a second wall that never gets used. An over-the-door organizer (see our [full buying guide](/blog/over-the-door-organizers-buying-guide/)) here is close to pure added storage — it doesn't compete with any other zone's space.
+The back of a closet door is functionally a second wall that never gets used. An over-the-door organizer (see our [full buying guide]({{ '/blog/over-the-door-organizers-buying-guide/' | url }})) here is close to pure added storage — it doesn't compete with any other zone's space.
 
 ## Putting it together: a standard reach-in closet
 
@@ -51,4 +51,4 @@ The back of a closet door is functionally a second wall that never gets used. An
 
 Closet organization products fail most often from a size mismatch, not product quality — a tension rod bought for the wrong span, or risers that don't fit shelf depth. Measure width, depth, and existing rod height before ordering anything, and check the product's listed min/max range rather than assuming "one size fits most."
 
-Related reading: [How to organize a studio apartment](/blog/organize-a-studio-apartment/) and [no-drill wall storage solutions](/blog/no-drill-wall-storage-for-renters/).
+Related reading: [How to organize a studio apartment]({{ '/blog/organize-a-studio-apartment/' | url }}) and [no-drill wall storage solutions]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}).

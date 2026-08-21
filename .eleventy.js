@@ -30,6 +30,11 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    // GitHub Pages project sites (no custom domain) serve from /<repo-name>/,
+    // not the domain root — this prefixes every `| url`-filtered / page.url
+    // link so internal navigation resolves correctly. Set to "/" instead if a
+    // custom domain or a github.io *user* site is set up later.
+    pathPrefix: "/rent-ready-spaces/",
     dir: {
       input: "content",
       includes: "../_includes",

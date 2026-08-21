@@ -10,7 +10,7 @@ _Last updated: {{ currentYear }}_
 
 **No warranty.** This site is provided "as is" without warranties of any kind. We are not liable for outcomes from purchases or projects based on our guides.
 
-**Affiliate links.** See our [affiliate disclosure](/affiliate-disclosure/).
+**Affiliate links.** See our [affiliate disclosure]({{ '/affiliate-disclosure/' | url }}).
 
 **Changes.** These terms may be updated as the site evolves; continued use of the site after changes means you accept the current version.
 

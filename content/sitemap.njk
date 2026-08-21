@@ -4,15 +4,15 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>{{ site.url }}/</loc></url>
-  <url><loc>{{ site.url }}/about/</loc></url>
-  <url><loc>{{ site.url }}/contact/</loc></url>
-  <url><loc>{{ site.url }}/privacy-policy/</loc></url>
-  <url><loc>{{ site.url }}/affiliate-disclosure/</loc></url>
-  <url><loc>{{ site.url }}/terms/</loc></url>
+  <url><loc>{{ site.url }}{{ '/' | url }}</loc></url>
+  <url><loc>{{ site.url }}{{ '/about/' | url }}</loc></url>
+  <url><loc>{{ site.url }}{{ '/contact/' | url }}</loc></url>
+  <url><loc>{{ site.url }}{{ '/privacy-policy/' | url }}</loc></url>
+  <url><loc>{{ site.url }}{{ '/affiliate-disclosure/' | url }}</loc></url>
+  <url><loc>{{ site.url }}{{ '/terms/' | url }}</loc></url>
   {% for post in collections.posts %}
   <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
+    <loc>{{ site.url }}{{ post.url | url }}</loc>
     <lastmod>{{ post.data.date | htmlDateString }}</lastmod>
   </url>
   {% endfor %}

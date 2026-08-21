@@ -16,7 +16,7 @@ Command-brand strips popularized damage-free hanging, but they're not the only o
 
 **Magnetic mounts.** Require a magnetic-receptive surface (steel doors, some appliances, certain wall panels) — not an option for standard drywall. Where compatible, they're the easiest to reposition and leave zero residue since there's no adhesive at all.
 
-**Tension rods and frames.** As covered in our [no-drill wall storage guide](/blog/no-drill-wall-storage-for-renters/), these wedge between two surfaces using spring pressure. Not a direct hook replacement, but often a better fit than any adhesive for anything over ~15 lbs.
+**Tension rods and frames.** As covered in our [no-drill wall storage guide]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}), these wedge between two surfaces using spring pressure. Not a direct hook replacement, but often a better fit than any adhesive for anything over ~15 lbs.
 
 **Over-the-door/frame hooks.** Zero wall or surface contact at all — the most reliably damage-free option where a door or frame is available nearby.
 
@@ -46,4 +46,4 @@ Command-brand strips popularized damage-free hanging, but they're not the only o
 
 It's rarely the hook itself — it's overloading a rated hook because the item "looked light enough," or removing an adhesive strip by yanking instead of the slow-stretch technique most brands specify. Whichever option you choose, the rated weight limit and the manufacturer's removal instructions matter more than the brand.
 
-Related reading: [No-drill wall storage solutions](/blog/no-drill-wall-storage-for-renters/) and [over-the-door organizers buying guide](/blog/over-the-door-organizers-buying-guide/).
+Related reading: [No-drill wall storage solutions]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}) and [over-the-door organizers buying guide]({{ '/blog/over-the-door-organizers-buying-guide/' | url }}).

@@ -7,3 +7,11 @@
 - start.sh installs deps and runs local preview server, refusing to start if port 8080 is already in use.
 - docs/ populated (release-notes, roadmap, project-summary, user-manual, nlp-summary) and MANUAL_STEPS.md written listing the account-creation steps only the user can complete.
 - Local git repo initialized; nothing pushed to any remote.
+
+0.2.0 - 2026-08-20 08:37 PM MDT - Fen
+- Created GitHub repo AranLewis/rent-ready-spaces (public) and added it as the origin remote, using the already-authenticated gh CLI.
+- Added .github/workflows/deploy.yml: builds the Eleventy site and deploys it to GitHub Pages via GitHub Actions on every push to main.
+- Set _data/site.json's url and robots.txt's Sitemap line to the real GitHub Pages URL (https://AranLewis.github.io/rent-ready-spaces/), replacing the example.com placeholder.
+- Found and fixed a real bug this introduced: GitHub Pages project sites (no custom domain) serve from a /<repo>/ subpath, but every internal link was hardcoded root-relative. Added Eleventy pathPrefix config and routed every internal href/src (layouts, 404, sitemap, and markdown cross-links) through the `url` filter so navigation resolves correctly. Also caught that page.url/post.url don't auto-include pathPrefix in Eleventy 2.x — they need the filter applied explicitly too; fixed canonical tags, the sitemap's post loop, and the homepage's post links, which were missing the prefix on the first pass.
+- Added a favicon link to stop bare /favicon.ico 404 requests.
+- Documented in todo.txt that pathPrefix needs to be reverted to "/" if/when a custom domain is added later.

@@ -48,4 +48,4 @@ Three mechanisms cover almost every product in this category:
 - Removing adhesive strips by pulling straight out instead of the slow, low-angle technique in the instructions — this is what tears paint.
 - Assuming a weight rating includes dynamic load (things bumped or knocked, not just resting weight) — it usually doesn't.
 
-Related reading: [Command hook alternatives compared](/blog/command-hook-alternatives-compared/) and [renter-friendly closet organization](/blog/renter-friendly-closet-organization/).
+Related reading: [Command hook alternatives compared]({{ '/blog/command-hook-alternatives-compared/' | url }}) and [renter-friendly closet organization]({{ '/blog/renter-friendly-closet-organization/' | url }}).
