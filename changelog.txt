@@ -15,3 +15,8 @@
 - Found and fixed a real bug this introduced: GitHub Pages project sites (no custom domain) serve from a /<repo>/ subpath, but every internal link was hardcoded root-relative. Added Eleventy pathPrefix config and routed every internal href/src (layouts, 404, sitemap, and markdown cross-links) through the `url` filter so navigation resolves correctly. Also caught that page.url/post.url don't auto-include pathPrefix in Eleventy 2.x — they need the filter applied explicitly too; fixed canonical tags, the sitemap's post loop, and the homepage's post links, which were missing the prefix on the first pass.
 - Added a favicon link to stop bare /favicon.ico 404 requests.
 - Documented in todo.txt that pathPrefix needs to be reverted to "/" if/when a custom domain is added later.
+
+0.3.0 - 2026-08-21 06:05 PM MDT - Fen
+- Amazon Associates application submitted by the user (site: rent-ready-spaces, store ID rentreadyspac-20). Set the real amazonTag in _data/site.json — verified all 10 affiliate links across the 5 live posts now carry &tag=rentreadyspac-20.
+- Added a theme-color meta tag and a <link rel="sitemap"> tag to the page head.
+- Split the old combined "Amazon + AdSense signup" todo item now that Amazon is done; added a tracked deadline for Amazon's 3-qualifying-sales-in-180-days requirement (~2027-02-17) and a standalone AdSense signup task.

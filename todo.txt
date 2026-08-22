@@ -1,24 +1,26 @@
 P0 // (recurring, every commit) Review any new post for AdSense/Amazon Associates policy compliance — genuine original analysis, no fabricated first-person testimonials — before it's considered publishable.
 
-P28 // Write post: "Best Freestanding Shelving for Renters (No Wall Mounting)"
-P29 // Write post: "How to Organize a Dorm Room: Storage for Shared Spaces"
-P30 // Write post: "Under-Sink Storage Ideas for Rentals (Kitchen & Bathroom)"
-P31 // Write post: "Best Storage Ottomans and Benches for Small Apartments"
-P32 // Write post: "Renter-Friendly Kitchen Organization: Vertical Storage Ideas"
-P33 // Write post: "Vacuum Storage Bags vs. Bins: Which Saves More Closet Space"
-P34 // Write post: "Best Rolling Carts for Small Kitchens and Apartments"
-P35 // Write post: "How to Organize a Shared Apartment: Storage for Roommates"
-P36 // Write post: "Damage-Free Curtain Rod Mounting for Renters"
-P37 // Write post: "Best Garment Racks for Apartments Without Enough Closet Space"
-P38 // Write post: "Bathroom Storage Ideas for Small Rental Bathrooms"
-P39 // Write post: "How to Store Bikes in a Small Apartment (No Damage)"
-P40 // Write post: "Best Drawer Organizers and Dividers for Small Spaces"
-P41 // Write post: "Renter-Friendly Pegboard and Modular Wall Storage Options"
-P42 // Write post: "Seasonal Storage: Where to Put Off-Season Items in a Small Apartment"
+P15 // Track: Amazon Associates requires 3 qualifying sales within 180 days of approval (2026-08-21 + 180 days ≈ 2027-02-17) or the account closes — check Associates Central dashboard periodically once there's traffic
+P20 // Sign up for Google AdSense once the site has more content (see MANUAL_STEPS.md), then set adsenseClientId/adsenseSlotHome/adsenseSlotPost in _data/site.json
 
-P43 // Sign up for Amazon Associates and Google AdSense once the site is live and has enough content (see MANUAL_STEPS.md), then set the real amazonTag/adsenseClientId in _data/site.json
-P53 [AI] // Consider a lightweight cookie-consent banner before enabling AdSense for EEA/UK visitors — verify current consent requirements before going live, since ad-consent rules change and this isn't legal advice
-P54 [AI] // Once a custom domain is added (see MANUAL_STEPS.md), set pathPrefix back to "/" in .eleventy.js and update _data/site.json's url + robots.txt's Sitemap line — the /rent-ready-spaces/ subpath only applies to the free github.io project URL
+P26 // Write post: "Best Freestanding Shelving for Renters (No Wall Mounting)"
+P27 // Write post: "How to Organize a Dorm Room: Storage for Shared Spaces"
+P28 // Write post: "Under-Sink Storage Ideas for Rentals (Kitchen & Bathroom)"
+P29 // Write post: "Best Storage Ottomans and Benches for Small Apartments"
+P30 // Write post: "Renter-Friendly Kitchen Organization: Vertical Storage Ideas"
+P31 // Write post: "Vacuum Storage Bags vs. Bins: Which Saves More Closet Space"
+P32 // Write post: "Best Rolling Carts for Small Kitchens and Apartments"
+P33 // Write post: "How to Organize a Shared Apartment: Storage for Roommates"
+P34 // Write post: "Damage-Free Curtain Rod Mounting for Renters"
+P35 // Write post: "Best Garment Racks for Apartments Without Enough Closet Space"
+P36 // Write post: "Bathroom Storage Ideas for Small Rental Bathrooms"
+P37 // Write post: "How to Store Bikes in a Small Apartment (No Damage)"
+P38 // Write post: "Best Drawer Organizers and Dividers for Small Spaces"
+P39 // Write post: "Renter-Friendly Pegboard and Modular Wall Storage Options"
+P40 // Write post: "Seasonal Storage: Where to Put Off-Season Items in a Small Apartment"
+
+P51 [AI] // Consider a lightweight cookie-consent banner before enabling AdSense for EEA/UK visitors — verify current consent requirements before going live, since ad-consent rules change and this isn't legal advice
+P52 [AI] // Once a custom domain is added (see MANUAL_STEPS.md), set pathPrefix back to "/" in .eleventy.js and update _data/site.json's url + robots.txt's Sitemap line — the /rent-ready-spaces/ subpath only applies to the free github.io project URL
 
 2026-08-20 - v0.1.0 // Add an explicit robots meta tag (index, follow) to the base layout head
 2026-08-20 - v0.1.0 // Add a custom 404 page
@@ -26,3 +28,6 @@ P54 [AI] // Once a custom domain is added (see MANUAL_STEPS.md), set pathPrefix 
 2026-08-20 - v0.2.0 // Add a favicon link to stop bare favicon.ico 404 requests
 2026-08-20 - v0.2.0 // Replace the placeholder domain (example.com) in _data/site.json and robots.txt with the real GitHub Pages URL
 2026-08-20 - v0.2.0 // Fix internal links to work under GitHub Pages' project subpath (pathPrefix + url filter on every internal href, including markdown cross-links)
+2026-08-21 - v0.3.0 // Sign up for Amazon Associates (store ID rentreadyspac-20) and set the real amazonTag in _data/site.json — every affiliate link site-wide is now tagged and live
+2026-08-21 - v0.3.0 // Add a theme-color meta tag matching the site accent color
+2026-08-21 - v0.3.0 // Add a <link rel="sitemap"> tag to the page head pointing at sitemap.xml
