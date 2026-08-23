@@ -29,3 +29,9 @@
 
 0.4.1 - 2026-08-23 09:43 AM MDT - Fen
 - Day 1 of the 7-day automated daily posting sprint (CronCreate job 9e789710). Wrote "Vacuum Storage Bags vs. Bins: Which Saves More Closet Space" — 11th post live. Original researched comparison, no fabricated testimonials, 2 affiliate links verified tagged, 3 cross-links verified resolving to real posts, plus one reciprocal link added from the closet organization post.
+
+0.5.0 - 2026-08-23 09:58 AM MDT - Fen
+- Added scripts/generate-pins.js: renders a branded 1000x1500 Pinterest pin image per post using Chrome's headless screenshot mode (already installed, no new dependency), plus pinterest/pin-copy.md with suggested pin title/description/board/destination URL for all 11 posts. Visually spot-checked two renders (short and long title) before committing to the batch.
+- Added a "Post to Pinterest" section to MANUAL_STEPS.md — account creation and actually pinning need the user's login, which I can't do; also marked the GitHub Pages and Amazon Associates sections done since both are live.
+- Added .gitattributes for the new PNG assets and an npm "generate-pins" script alias.
+- pinterest/html/ (disposable render staging files) added to .gitignore; pinterest/images/*.png and pin-copy.md are committed as the actual deliverable.
