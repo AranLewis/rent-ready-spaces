@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /pinterest/
 
 Sitemap: https://AranLewis.github.io/rent-ready-spaces/sitemap.xml

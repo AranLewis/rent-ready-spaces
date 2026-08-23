@@ -1,6 +1,10 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("robots.txt");
+  // Not site content — served publicly only so external tools (e.g. a
+  // browser-automation extension) can fetch pin images by URL instead of
+  // needing local filesystem access.
+  eleventyConfig.addPassthroughCopy("pinterest/images");
 
   eleventyConfig.addFilter("htmlDateString", (dateObj) =>
     new Date(dateObj).toISOString().split("T")[0]

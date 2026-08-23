@@ -35,3 +35,7 @@
 - Added a "Post to Pinterest" section to MANUAL_STEPS.md — account creation and actually pinning need the user's login, which I can't do; also marked the GitHub Pages and Amazon Associates sections done since both are live.
 - Added .gitattributes for the new PNG assets and an npm "generate-pins" script alias.
 - pinterest/html/ (disposable render staging files) added to .gitignore; pinterest/images/*.png and pin-copy.md are committed as the actual deliverable.
+
+0.5.1 - 2026-08-23 04:39 PM MDT - Fen
+- Added passthrough copy for pinterest/images so the 11 pin PNGs are served from the live site, not just the repo — the user wanted a URL a browser-automation extension (Claude for Chrome) could fetch, since it can't reach arbitrary local filesystem paths. Verified all 11 land in _site/pinterest/images/ on rebuild.
+- Added robots.txt Disallow: /pinterest/ — these are marketing assets, not site content, and shouldn't be crawled/indexed as pages.
