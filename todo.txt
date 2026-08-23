@@ -1,21 +1,20 @@
 P0 // (recurring, every commit) Review any new post for AdSense/Amazon Associates policy compliance — genuine original analysis, no fabricated first-person testimonials — before it's considered publishable.
 
-P13 // Track: Amazon Associates requires 3 qualifying sales within 180 days of approval (2026-08-21 + 180 days ≈ 2027-02-17) or the account closes — check Associates Central dashboard periodically once there's traffic
-P18 // Sign up for Google AdSense now that the site has 10 posts (see MANUAL_STEPS.md), then set adsenseClientId/adsenseSlotHome/adsenseSlotPost in _data/site.json
+P11 // Track: Amazon Associates requires 3 qualifying sales within 180 days of approval (2026-08-21 + 180 days ≈ 2027-02-17) or the account closes — check Associates Central dashboard periodically once there's traffic
+P16 // Sign up for Google AdSense now that the site has 11 posts (see MANUAL_STEPS.md), then set adsenseClientId/adsenseSlotHome/adsenseSlotPost in _data/site.json
 
-P24 // Write post: "Vacuum Storage Bags vs. Bins: Which Saves More Closet Space"
-P25 // Write post: "Best Rolling Carts for Small Kitchens and Apartments"
-P26 // Write post: "How to Organize a Shared Apartment: Storage for Roommates"
-P27 // Write post: "Damage-Free Curtain Rod Mounting for Renters"
-P28 // Write post: "Best Garment Racks for Apartments Without Enough Closet Space"
-P29 // Write post: "Bathroom Storage Ideas for Small Rental Bathrooms"
-P30 // Write post: "How to Store Bikes in a Small Apartment (No Damage)"
-P31 // Write post: "Best Drawer Organizers and Dividers for Small Spaces"
-P32 // Write post: "Renter-Friendly Pegboard and Modular Wall Storage Options"
-P33 // Write post: "Seasonal Storage: Where to Put Off-Season Items in a Small Apartment"
+P23 // Write post: "Best Rolling Carts for Small Kitchens and Apartments"
+P24 // Write post: "How to Organize a Shared Apartment: Storage for Roommates"
+P25 // Write post: "Damage-Free Curtain Rod Mounting for Renters"
+P26 // Write post: "Best Garment Racks for Apartments Without Enough Closet Space"
+P27 // Write post: "Bathroom Storage Ideas for Small Rental Bathrooms"
+P28 // Write post: "How to Store Bikes in a Small Apartment (No Damage)"
+P29 // Write post: "Best Drawer Organizers and Dividers for Small Spaces"
+P30 // Write post: "Renter-Friendly Pegboard and Modular Wall Storage Options"
+P31 // Write post: "Seasonal Storage: Where to Put Off-Season Items in a Small Apartment"
 
-P49 [AI] // Consider a lightweight cookie-consent banner before enabling AdSense for EEA/UK visitors — verify current consent requirements before going live, since ad-consent rules change and this isn't legal advice
-P50 [AI] // Once a custom domain is added (see MANUAL_STEPS.md), set pathPrefix back to "/" in .eleventy.js and update _data/site.json's url + robots.txt's Sitemap line — the /rent-ready-spaces/ subpath only applies to the free github.io project URL
+P47 [AI] // Consider a lightweight cookie-consent banner before enabling AdSense for EEA/UK visitors — verify current consent requirements before going live, since ad-consent rules change and this isn't legal advice
+P48 [AI] // Once a custom domain is added (see MANUAL_STEPS.md), set pathPrefix back to "/" in .eleventy.js and update _data/site.json's url + robots.txt's Sitemap line — the /rent-ready-spaces/ subpath only applies to the free github.io project URL
 
 2026-08-20 - v0.1.0 // Add an explicit robots meta tag (index, follow) to the base layout head
 2026-08-20 - v0.1.0 // Add a custom 404 page
@@ -33,3 +32,4 @@ P50 [AI] // Once a custom domain is added (see MANUAL_STEPS.md), set pathPrefix 
 2026-08-23 - v0.4.0 // Write post: "Renter-Friendly Kitchen Organization: Vertical Storage Ideas"
 2026-08-23 - v0.4.0 // Add og:url and twitter:card meta tags to the page head
 2026-08-23 - v0.4.0 // Cross-link the 5 new posts into the original 5 (studio apartment, no-drill wall storage, over-the-door organizers) so the site is one interlinked cluster, not two separate batches
+2026-08-23 - v0.4.1 // Write post: "Vacuum Storage Bags vs. Bins: Which Saves More Closet Space" (day 1 of the 7-day daily posting sprint)

@@ -29,6 +29,7 @@ The shelf above the rod is usually the most wasted space in a rental closet — 
 
 - Stackable, uniform bins turn one flat shelf layer into two or three, and make contents visible/labelable instead of a single dig-through pile.
 - Wire or acrylic shelf risers do the same for shoes or folded items without needing matched bin sizes.
+- For off-season clothing and bedding specifically, vacuum-seal bags can compress volume further than any bin — see our [vacuum bags vs. bins comparison]({{ '/blog/vacuum-storage-bags-vs-bins/' | url }}) for which items each method actually suits.
 
 ## Door-back space
 

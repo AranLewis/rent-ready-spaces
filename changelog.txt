@@ -26,3 +26,6 @@
 - Cross-linked the new posts into the original 5 (studio apartment, no-drill wall storage, over-the-door organizers) so the site reads as one interlinked cluster instead of two separate batches — verified every internal link resolves to a real post.
 - Added og:url and twitter:card meta tags to the page head.
 - 10 posts is a meaningfully stronger position for the AdSense application than 5 was — updated todo.txt accordingly.
+
+0.4.1 - 2026-08-23 09:43 AM MDT - Fen
+- Day 1 of the 7-day automated daily posting sprint (CronCreate job 9e789710). Wrote "Vacuum Storage Bags vs. Bins: Which Saves More Closet Space" — 11th post live. Original researched comparison, no fabricated testimonials, 2 affiliate links verified tagged, 3 cross-links verified resolving to real posts, plus one reciprocal link added from the closet organization post.
