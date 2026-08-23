@@ -39,7 +39,7 @@ Three mechanisms cover almost every product in this category:
 
 - **Renting month-to-month or worried about a strict inspection?** Start with over-door and tension products — zero wall contact means zero risk.
 - **Need something on an open wall (no nearby door/frame)?** Adhesive strips are your only real option; buy rated for at least double your load and respect the cure time.
-- **Textured or recently painted walls?** Skip adhesives. Use freestanding, tension, or door-mounted alternatives instead — no adhesive product performs reliably on texture.
+- **Textured or recently painted walls?** Skip adhesives. Use freestanding, tension, or door-mounted alternatives instead — no adhesive product performs reliably on texture. See our [freestanding shelving guide]({{ '/blog/freestanding-shelving-for-renters/' | url }}) for the zero-wall-contact option.
 
 ## Common mistakes that cost deposits
 
@@ -48,4 +48,4 @@ Three mechanisms cover almost every product in this category:
 - Removing adhesive strips by pulling straight out instead of the slow, low-angle technique in the instructions — this is what tears paint.
 - Assuming a weight rating includes dynamic load (things bumped or knocked, not just resting weight) — it usually doesn't.
 
-Related reading: [Command hook alternatives compared]({{ '/blog/command-hook-alternatives-compared/' | url }}) and [renter-friendly closet organization]({{ '/blog/renter-friendly-closet-organization/' | url }}).
+Related reading: [Command hook alternatives compared]({{ '/blog/command-hook-alternatives-compared/' | url }}), [renter-friendly closet organization]({{ '/blog/renter-friendly-closet-organization/' | url }}), and [renter-friendly kitchen organization]({{ '/blog/renter-friendly-kitchen-organization/' | url }}).

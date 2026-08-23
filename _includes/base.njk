@@ -12,6 +12,8 @@
   <meta property="og:title" content="{{ title or site.title }}">
   <meta property="og:description" content="{{ description or site.description }}">
   <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ page.url | url }}">
+  <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}">
   <link rel="sitemap" type="application/xml" href="{{ '/sitemap.xml' | url }}">
   {% if site.adsenseClientId %}

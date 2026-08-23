@@ -20,3 +20,9 @@
 - Amazon Associates application submitted by the user (site: rent-ready-spaces, store ID rentreadyspac-20). Set the real amazonTag in _data/site.json — verified all 10 affiliate links across the 5 live posts now carry &tag=rentreadyspac-20.
 - Added a theme-color meta tag and a <link rel="sitemap"> tag to the page head.
 - Split the old combined "Amazon + AdSense signup" todo item now that Amazon is done; added a tracked deadline for Amazon's 3-qualifying-sales-in-180-days requirement (~2027-02-17) and a standalone AdSense signup task.
+
+0.4.0 - 2026-08-23 08:29 AM MDT - Fen
+- Wrote 5 more posts from the content backlog, doubling the site to 10 guides: freestanding shelving, dorm room organization, under-sink storage, storage ottomans/benches, and renter-friendly kitchen organization. Same standard as the original 5 — original researched analysis, no fabricated testimonials, affiliate links via the shared shortcode (all verified tagged with the real amazonTag).
+- Cross-linked the new posts into the original 5 (studio apartment, no-drill wall storage, over-the-door organizers) so the site reads as one interlinked cluster instead of two separate batches — verified every internal link resolves to a real post.
+- Added og:url and twitter:card meta tags to the page head.
+- 10 posts is a meaningfully stronger position for the AdSense application than 5 was — updated todo.txt accordingly.

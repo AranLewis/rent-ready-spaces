@@ -28,7 +28,7 @@ This is the highest-traffic, most cluttered zone in almost every studio because 
 
 ### 3. Kitchen zone
 
-- Vertical storage (wall-mounted racks, magnetic strips for knives/spice tins) frees counter and cabinet space, which is almost always the tightest resource in a studio kitchen.
+- Vertical storage (wall-mounted racks, magnetic strips for knives/spice tins) frees counter and cabinet space, which is almost always the tightest resource in a studio kitchen — see our [renter-friendly kitchen organization guide]({{ '/blog/renter-friendly-kitchen-organization/' | url }}) for the full breakdown.
 - Stackable, uniform containers for pantry items use cabinet volume far more efficiently than a shelf of mismatched boxes and bags.
 - A rolling kitchen cart adds counter and storage capacity that can be tucked away or repositioned, useful when the kitchen itself is small or galley-style.
 
@@ -39,7 +39,7 @@ This is the highest-traffic, most cluttered zone in almost every studio because 
 
 ### 5. Storage-only zones
 
-- Above kitchen cabinets, behind doors, and inside ottomans/benches are all storage-only zones most studios underuse. An ottoman with internal storage effectively adds a hidden closet's worth of space while doubling as seating.
+- Above kitchen cabinets, behind doors, and inside ottomans/benches are all storage-only zones most studios underuse. An ottoman with internal storage effectively adds a hidden closet's worth of space while doubling as seating — see our [storage ottoman buying guide]({{ '/blog/storage-ottomans-and-benches-for-small-apartments/' | url }}) for how to pick one that holds up.
 - Closet organization systems (tension rods, stackable shelf risers, double-hang bars) roughly double usable closet volume in most standard rental closets — see our [closet organization guide]({{ '/blog/renter-friendly-closet-organization/' | url }}) for specifics.
 
 ## A simple buying order
@@ -56,4 +56,4 @@ If budget/time is limited, prioritize in this order — each has outsized impact
 
 {% affiliateLink "https://www.amazon.com/s?k=storage+ottoman", "Browse storage ottomans", site.amazonTag %}
 
-Related reading: [Renter-friendly closet organization]({{ '/blog/renter-friendly-closet-organization/' | url }}) and [no-drill wall storage solutions]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}).
+Related reading: [Renter-friendly closet organization]({{ '/blog/renter-friendly-closet-organization/' | url }}), [no-drill wall storage solutions]({{ '/blog/no-drill-wall-storage-for-renters/' | url }}), and [freestanding shelving for renters]({{ '/blog/freestanding-shelving-for-renters/' | url }}).
