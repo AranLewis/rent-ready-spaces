@@ -39,3 +39,6 @@
 0.5.1 - 2026-08-23 04:39 PM MDT - Fen
 - Added passthrough copy for pinterest/images so the 11 pin PNGs are served from the live site, not just the repo — the user wanted a URL a browser-automation extension (Claude for Chrome) could fetch, since it can't reach arbitrary local filesystem paths. Verified all 11 land in _site/pinterest/images/ on rebuild.
 - Added robots.txt Disallow: /pinterest/ — these are marketing assets, not site content, and shouldn't be crawled/indexed as pages.
+
+0.5.2 - 2026-08-24 09:44 AM MDT - Fen
+- Day 2 of the 7-day automated daily posting sprint (CronCreate job 9e789710). Wrote "Best Rolling Carts for Small Kitchens and Apartments" — 12th post live. Original researched buying guide, no fabricated testimonials, 2 affiliate links verified tagged, 3 cross-links verified resolving to real posts, plus one reciprocal link added from the kitchen organization post.

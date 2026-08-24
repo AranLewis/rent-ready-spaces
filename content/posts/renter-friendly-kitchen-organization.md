@@ -18,7 +18,7 @@ Rental kitchens rarely get more cabinets or counter space added between tenants 
 
 ## Counter space: reclaim it, don't just organize around it
 
-Counter clutter in small kitchens is usually a small number of frequently-out items, not many things. Before buying more counter organizers, identify what's actually staying out permanently (coffee maker, cutting board) versus what could move to a vertical zone instead — a rolling cart (see our [studio apartment guide]({{ '/blog/organize-a-studio-apartment/' | url }})) can also absorb overflow without a fixed footprint, since it can be pushed aside or into another room when not needed.
+Counter clutter in small kitchens is usually a small number of frequently-out items, not many things. Before buying more counter organizers, identify what's actually staying out permanently (coffee maker, cutting board) versus what could move to a vertical zone instead — a rolling cart (see our [rolling cart buying guide]({{ '/blog/rolling-carts-for-small-kitchens-and-apartments/' | url }})) can also absorb overflow without a fixed footprint, since it can be pushed aside or into another room when not needed.
 
 ## A prioritized shopping list
 
